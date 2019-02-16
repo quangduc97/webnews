@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab5674c0-1b81-48fc-b764-779ae44e0407" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="tintuc@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="tintuc@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="tintuc@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="tintuc: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="47" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class/tin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="173" column="30" selection-start-line="173" selection-start-column="30" selection-end-line="173" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tintrongloai.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ketquatimkiem.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/77cc28e1-0779-449a-a420-cbb58db7f62a/console_8.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;div class=&quot;name</find>
+      <find>../../</find>
+      <find>&lt;div class=&quot;n</find>
+      <find>&lt;?php</find>
+      <find>&lt;div class=&quot;sing</find>
+      <find>&lt;ul class=&quot;m</find>
+      <find>&lt;ul class=&quot;f</find>
+      <find>&lt;div class=&quot;a</find>
+      <find>&lt;ul class=&quot;nav na</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/class/goc.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/77cc28e1-0779-449a-a420-cbb58db7f62a/console_1.sql" />
+        <option value="$PROJECT_DIR$/quantri/thoat.php" />
+        <option value="$PROJECT_DIR$/quantri/login.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/77cc28e1-0779-449a-a420-cbb58db7f62a/console_2.sql" />
+        <option value="$PROJECT_DIR$/quantri/js/pages/tables/jquery-datatable.js" />
+        <option value="$PROJECT_DIR$/quantri/theloai_ds.php" />
+        <option value="$PROJECT_DIR$/quantri/theloai_them.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/77cc28e1-0779-449a-a420-cbb58db7f62a/console_3.sql" />
+        <option value="$PROJECT_DIR$/quantri/theloai_sua.php" />
+        <option value="$PROJECT_DIR$/quantri/theloai_xoa.php" />
+        <option value="$PROJECT_DIR$/quantri/loaitin_them.php" />
+        <option value="$PROJECT_DIR$/quantri/loaitin_xoa.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/77cc28e1-0779-449a-a420-cbb58db7f62a/console_4.sql" />
+        <option value="$PROJECT_DIR$/quantri/loaitin_ds.php" />
+        <option value="$PROJECT_DIR$/quantri/index.php" />
+        <option value="$PROJECT_DIR$/quantri/tin_ds.php" />
+        <option value="$PROJECT_DIR$/quantri/test.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/77cc28e1-0779-449a-a420-cbb58db7f62a/console_5.sql" />
+        <option value="$PROJECT_DIR$/quantri/tintuc_layloaitin.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/77cc28e1-0779-449a-a420-cbb58db7f62a/console_6.sql" />
+        <option value="$PROJECT_DIR$/quantri/tin_them.php" />
+        <option value="$PROJECT_DIR$/quantri/tin_sua.php" />
+        <option value="$PROJECT_DIR$/quantri/tin_xoa.php" />
+        <option value="$PROJECT_DIR$/quantri/menu.php" />
+        <option value="$PROJECT_DIR$/pages/single.html" />
+        <option value="$PROJECT_DIR$/tinxemnhieu.php" />
+        <option value="$PROJECT_DIR$/tinnoibat.php" />
+        <option value="$PROJECT_DIR$/tinngaunhien.php" />
+        <option value="$PROJECT_DIR$/chitiettin.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/77cc28e1-0779-449a-a420-cbb58db7f62a/console_7.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/class/quantritin.php" />
+        <option value="$PROJECT_DIR$/quantri/loaitin_sua.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/tinmoi.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/77cc28e1-0779-449a-a420-cbb58db7f62a/console_8.sql" />
+        <option value="$PROJECT_DIR$/menu.php" />
+        <option value="$PROJECT_DIR$/tintrongloai.php" />
+        <option value="$PROJECT_DIR$/ketquatimkiem.php" />
+        <option value="$PROJECT_DIR$/class/tin.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="44" />
+    <option name="width" value="1346" />
+    <option name="height" value="704" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Script.test.php">
+    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/news/index.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="login.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/news/quantri/login.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/news/test.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="tintrongloai.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/news/tintrongloai.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/test.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.test.php" />
+        <item itemvalue="JavaScript Debug.test.php" />
+        <item itemvalue="JavaScript Debug.tintrongloai.php" />
+        <item itemvalue="JavaScript Debug.index.php" />
+        <item itemvalue="JavaScript Debug.login.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab5674c0-1b81-48fc-b764-779ae44e0407" name="Default Changelist" comment="" />
+      <created>1549124145716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549124145716</updated>
+      <workItem from="1549124146987" duration="4155000" />
+      <workItem from="1549192183113" duration="1733000" />
+      <workItem from="1549193975522" duration="15680000" />
+      <workItem from="1549268430053" duration="17850000" />
+      <workItem from="1549347624674" duration="9116000" />
+      <workItem from="1549370186879" duration="16132000" />
+      <workItem from="1549429526643" duration="11532000" />
+      <workItem from="1549451126161" duration="8875000" />
+      <workItem from="1549516164925" duration="21500000" />
+      <workItem from="1549701393793" duration="13091000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="119664000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="44" width="1346" height="704" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13384615" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298791" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298791" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39896372" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Console" order="7" visible="true" weight="0.3298791" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.20692308" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/quantri/loaitin_xoa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quantri/theloai_ds.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quantri/loaitin_ds.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="42" column="59" lean-forward="true" selection-start-line="42" selection-start-column="59" selection-end-line="42" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/77cc28e1-0779-449a-a420-cbb58db7f62a.SCHEMA:tintuc">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>77cc28e1-0779-449a-a420-cbb58db7f62a.SCHEMA:tintuc</OriginalElement>
+          <nodes>
+            <node x="" y="">77cc28e1-0779-449a-a420-cbb58db7f62a.TABLE:tintuc.theloai</node>
+            <node x="" y="">77cc28e1-0779-449a-a420-cbb58db7f62a.TABLE:tintuc.loaitin</node>
+            <node x="" y="">77cc28e1-0779-449a-a420-cbb58db7f62a.TABLE:tintuc.tin</node>
+            <node x="" y="">77cc28e1-0779-449a-a420-cbb58db7f62a.TABLE:tintuc.users</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6848958333333334" x="256.0" y="374.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quantri/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
+          <folding>
+            <element signature="e#6#895#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/77cc28e1-0779-449a-a420-cbb58db7f62a/console_5.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/77cc28e1-0779-449a-a420-cbb58db7f62a/console_6.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="46" selection-start-column="46" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quantri/plugins/ckfinder/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3008">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quantri/tintuc_layloaitin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quantri/theloai_sua.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1395">
+          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataupload/images/18767868_1889670767912548_1012095550186136204_n.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="das://77cc28e1-0779-449a-a420-cbb58db7f62a/schema/tintuc/table/users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quantri/tin_xoa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quantri/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="44" column="72" selection-start-line="44" selection-start-column="72" selection-end-line="44" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/quantri/tin_sua.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="116" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quantri/tin_ds.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quantri/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quantri/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="53" column="27" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quantri/tin_them.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="134" column="40" lean-forward="true" selection-start-line="134" selection-start-column="40" selection-end-line="134" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tinxemnhieu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="65" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tinnoibat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="233" selection-start-line="4" selection-start-column="227" selection-end-line="4" selection-end-column="233" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tinngaunhien.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="88" selection-start-line="4" selection-start-column="88" selection-end-line="4" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://77cc28e1-0779-449a-a420-cbb58db7f62a/schema/tintuc/table/tin">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://77cc28e1-0779-449a-a420-cbb58db7f62a/schema/tintuc/table/loaitin">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/77cc28e1-0779-449a-a420-cbb58db7f62a/console_7.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quantri/theloai_them.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="91" column="34" lean-forward="true" selection-start-line="91" selection-start-column="34" selection-end-line="91" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quantri/loaitin_them.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/quantritin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="152" column="64" lean-forward="true" selection-start-line="152" selection-start-column="64" selection-end-line="152" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quantri/loaitin_sua.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/goc.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tinmoi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chitiettin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="40" column="6" lean-forward="true" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/77cc28e1-0779-449a-a420-cbb58db7f62a/console_8.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tintrongloai.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ketquatimkiem.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/tin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="173" column="30" selection-start-line="173" selection-start-column="30" selection-end-line="173" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="47" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

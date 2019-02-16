@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^phapluat/$ index.php?p=cat&idLT=14 [L]
